@@ -1,0 +1,166 @@
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\appsettings.json
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.Views.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.Views.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.MvcApplicationPartsAssemblyInfo.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorAssemblyInfo.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorAssemblyInfo.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\staticwebassets\Lab4.StaticWebAssets.Manifest.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\staticwebassets\Lab4.StaticWebAssets.xml
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab4.styles.css
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.TagHelpers.input.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.TagHelpers.output.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorCoreGenerate.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorTargetAssemblyInfo.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorTargetAssemblyInfo.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.Views.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CopyComplete
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\InterestingLinks.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllCars.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetListOfModels.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCarByModel.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactForm.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactFormGreetings.cshtml.g.cs
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\STUDIA\Kredek\Lab4\Praca na laboratorium\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.Views.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.Views.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\pobrane\Lab4\Lab4\Lab4\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.MvcApplicationPartsAssemblyInfo.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorAssemblyInfo.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorAssemblyInfo.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\staticwebassets\Lab4.StaticWebAssets.Manifest.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\staticwebassets\Lab4.StaticWebAssets.xml
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\Lab4.styles.css
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.TagHelpers.input.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.TagHelpers.output.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorCoreGenerate.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactForm.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\ContactFormGreetings.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetAllCars.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetCarByModel.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\GetListOfModels.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\InterestingLinks.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorTargetAssemblyInfo.cache
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.RazorTargetAssemblyInfo.cs
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.Views.pdb
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CopyComplete
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\pobrane\Lab4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

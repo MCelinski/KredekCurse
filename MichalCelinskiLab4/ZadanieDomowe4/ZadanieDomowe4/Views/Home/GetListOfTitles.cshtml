@@ -1,0 +1,12 @@
+﻿@model List<string>
+
+@foreach (var movieModel in Model)
+{
+    {
+        <ul>
+            <li>
+                @Html.ActionLink(movieModel, "GetMovieByTitle", "Home", new {title = movieModel}, null)
+            </li>
+        </ul>
+    }
+}

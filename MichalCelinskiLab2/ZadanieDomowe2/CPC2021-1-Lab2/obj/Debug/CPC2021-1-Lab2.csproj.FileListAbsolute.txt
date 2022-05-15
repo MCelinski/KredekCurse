@@ -1,0 +1,11 @@
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.exe.config
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.exe
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\bin\Debug\CPC2021-1-Lab2.pdb
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csprojAssemblyReference.cache
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Forms.FormLogin.resources
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Forms.FormMain.resources
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2020_2_Lab3.Properties.Resources.resources
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csproj.GenerateResource.cache
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.exe
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab2\ZadanieDomowe2\CPC2021-1-Lab2\obj\Debug\CPC2021-1-Lab2.pdb

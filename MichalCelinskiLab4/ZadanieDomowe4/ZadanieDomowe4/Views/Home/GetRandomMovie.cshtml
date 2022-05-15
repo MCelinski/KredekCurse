@@ -1,0 +1,14 @@
+﻿@model List<MovieViewModell>
+
+
+@foreach (var Movie in Model)
+{
+    <div>
+        <h2>@Movie.Title</h2>
+        <h4>Reżyser: @Movie.Director</h4>
+        <h4>Rok Wydania: @Movie.YearOfPublish</h4>
+        <h4>Ocena: @Movie.Rate</h4>
+        <img src="@Url.Content(Movie.Photo)" alt="@Movie.Title" />
+        <hr />
+    </div>
+}

@@ -1,0 +1,4 @@
+Program jest prostą symulacją farmy umożliwiającą zbieranie różnego rodzaju ważyw i owoców
+co podnosi poziom. Niektóre zbiory wymagają więcej czasu ale dają też większy poziom
+W sklepie można zakupić nawozy, których nabycie ulepsza zbiory dając więcej
+poziomów za zebranie. Środek na mszyce chroni przed plagą mszyc. 

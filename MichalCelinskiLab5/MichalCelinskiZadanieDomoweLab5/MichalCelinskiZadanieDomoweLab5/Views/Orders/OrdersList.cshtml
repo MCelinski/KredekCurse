@@ -1,0 +1,43 @@
+﻿@model IEnumerable<MichalCelinskiZadanieDomoweLab5.Models.Order>
+
+@{
+    ViewData["Title"] = "OrdersList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>OrdersList</h1>
+
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Value)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Value)
+            </td>
+           
+        </tr>
+}
+    </tbody>
+</table>

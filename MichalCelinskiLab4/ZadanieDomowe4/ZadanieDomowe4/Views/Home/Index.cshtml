@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="jumbotron">
+    <link rel="stylesheet" href="~/css/site.css" />
+    <div id="links">
+        <h1>ASP.NET Core MVC - Baza Filmów</h1>
+        <ul>
+
+
+
+            <li>
+                @Html.ActionLink("Tabela Filmów", "GetAllMovies", "Home")
+            </li>
+            <li>
+                @Html.ActionLink("Lista Tytułów", "GetListOfTitles", "Home")
+            </li>
+            <li>
+                @Html.ActionLink("Prośba o dodanie filmu", "ContactForm", "Home")
+            </li>
+            <li>
+                @Html.ActionLink("Losowy Film", "GetRandomMovie", "Home")
+            </li>
+
+
+        </ul>
+    </div>
+</div>

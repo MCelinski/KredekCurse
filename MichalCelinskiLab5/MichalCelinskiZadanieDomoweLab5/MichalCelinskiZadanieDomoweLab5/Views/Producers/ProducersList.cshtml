@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MichalCelinskiZadanieDomoweLab5.Models.Producer>
+
+@{
+    ViewData["Title"] = "ProducersList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>ProducersList</h1>
+
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducerCountry)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProducerCity)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProducerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProducerCountry)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProducerCity)
+            </td>
+            <td>
+                
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

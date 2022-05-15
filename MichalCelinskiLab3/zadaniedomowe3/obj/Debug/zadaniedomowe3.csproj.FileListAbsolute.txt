@@ -1,0 +1,2 @@
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab3\zadaniedomowe3\zadaniedomowe3\obj\Debug\zadaniedomowe3.csprojAssemblyReference.cache
+C:\Users\michu\source\repos\KredekRepos\michal_celinski_cpc2021-1\Lab3\zadaniedomowe3\zadaniedomowe3\obj\Debug\zadaniedomowe3.csproj.CoreCompileInputs.cache

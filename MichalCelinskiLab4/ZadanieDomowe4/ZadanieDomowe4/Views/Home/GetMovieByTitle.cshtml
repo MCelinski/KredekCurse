@@ -1,0 +1,18 @@
+﻿@model ZadanieDomowe4.Models.MovieViewModell
+
+<div>
+    <h2>
+        Tytuł: @Model.Title
+    </h2>
+    <h4>
+        Reżyser: @Model.Director
+    </h4>
+    <h4>
+        Rok Wydania: @Model.YearOfPublish
+    </h4>
+    <h4>
+        Ocena: @Model.Rate
+    </h4>
+    
+    <img src="@Url.Content(Model.Photo)" alt="@Model.Title." />
+</div>

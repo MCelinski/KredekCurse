@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MichalCelinskiZadanieDomoweLab5.Models.Category>
+
+@{
+    ViewData["Title"] = "CategoriesList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>CategoriesList</h1>
+
+<p>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryName)
+            </td>
+            <td>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

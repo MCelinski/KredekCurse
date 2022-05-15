@@ -1,0 +1,14 @@
+﻿@model Lab4.Models.CarViewModel
+
+<div>
+    <h2>
+        Model: @Model.Model
+    </h2>
+    <h4>
+        Model: @Model.Manufacturer
+    </h4>
+    <h4>
+        Model: @Model.Price
+    </h4>
+    <img src="@Url.Content(Model.Photo)" alt="@Model.Model."/>
+</div>
